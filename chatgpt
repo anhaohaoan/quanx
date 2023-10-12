@@ -1,0 +1,6 @@
+# ChatGPT分流
+host-suffix, openai.com, proxy
+host-suffix, ai.com, proxy
+host-suffix, sentry.io, proxy
+host, cdn.auth0.com, proxy
+host, openaiapi-site.azureedge.net, proxy
